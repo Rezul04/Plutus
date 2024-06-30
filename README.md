@@ -2,7 +2,7 @@
 ### Plutus – Clean & Minimal tailwind css Admin Dashboard Template
 
 ![image](https://github.com/Rezul04/Plutus/master/dist/img/Analytics-Dashboard1.png)
-![image](https://github.com/moesaid/cleopatra/raw/master/dist/img/Analytics-Dashboard2)
+![image](https://github.com/moesaid/cleopatra/raw/master/dist/img/Analytics-Dashboard2.png)
 ![image](https://github.com/moesaid/cleopatra/raw/master/dist/img/E-Commerce-Dashboard)
 
 
