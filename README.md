@@ -12,7 +12,7 @@ Plutus emerges as a leading developer-first admin dashboard template meticulousl
 
 ## Installation
 
-There are multiple ways to install Cleopatra.
+There are multiple ways to install Plutus.
 
 <br>
 <br>
